@@ -3,7 +3,7 @@
 
 # 설치법
 ```shell
-git clone https://github.com/blahblah/is-korean-name
+git clone https://github.com/level99rabbit/is-korean-name
 cd is-korean-name
 pip install -r requirements.txt
 ```
