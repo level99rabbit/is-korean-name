@@ -12,7 +12,6 @@ pip install -r requirements.txt
 # 사용법
 1) 훈련시키기
 ```shell
-cd is-korean-name
 python train.py
 ```
 
